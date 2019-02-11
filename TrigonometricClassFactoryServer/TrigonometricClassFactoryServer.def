@@ -1,0 +1,5 @@
+LIBRARY TrigonometricClassFactoryServer
+EXPORTS
+	DllGetClassObject	 PRIVATE
+	DllCanUnloadNow		 PRIVATE
+	

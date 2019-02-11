@@ -1,0 +1,73 @@
+
+ 
+ ********************************************************************************************************************************************* 
+
+  	 Animal Kingdom :-  			
+  	 Animal  :  Animal Name:  Clown Fish 
+
+ 	 Phylum : Chordata 	 Class: Actinopterygii 	 Order: Perciformes 	 Family: Pomacentridaie 	 Genus: Amphiprion 	 Species: Chilenis 
+ 			
+ ------------------------------------------------------------------------------------------------------------------------------------------------ 
+
+  	 Trigonometric:-  			
+  	 tan 60.000000 is 0.320040   			
+ ------------------------------------------------------------------------------------------------------------------------------------------------
+
+  	 Physics:-  			
+  	Distance: 45.000000  Time: 6.000000 = Velocity  Velocity Is 7.500000   			
+
+  	Initial Velocity: 34.000000 Final Velocity: 56.000000 Time Delta: 87.000000 = Acceleration Acceleration is 0.252874   		
+ 
+ ********************************************************************************************************************************************* 
+
+  	 Animal Kingdom :-  			
+  	 Animal  :  Animal Name:  Chilean flamingo 
+
+ 	 Phylum : Chordata 	 Class: Aves 	 Order: Ciconiiformes 	 Family: Phoenicopteridae 	 Genus: Phoenicopterus 	 Species: Chilenis 
+ 			
+ ------------------------------------------------------------------------------------------------------------------------------------------------ 
+
+  	 Trigonometric:-  			
+  	 sec 30.000000 is 6.482921   			
+ ------------------------------------------------------------------------------------------------------------------------------------------------
+
+  	 Physics:-  			
+  	Distance: 435.000000  Time: 34.000000 = Velocity  Velocity Is 12.794118   			
+
+  	Initial Velocity: 6.000000 Final Velocity: 56.000000 Time Delta: 87.000000 = Acceleration Acceleration is 0.574713   		
+ 
+ ********************************************************************************************************************************************* 
+
+  	 Animal Kingdom :-  			
+  	 Animal  :  Animal Name:  Chilean flamingo 
+
+ 	 Phylum : Chordata 	 Class: Aves 	 Order: Ciconiiformes 	 Family: Phoenicopteridae 	 Genus: Phoenicopterus 	 Species: Chilenis 
+ 			
+ ------------------------------------------------------------------------------------------------------------------------------------------------ 
+
+  	 Trigonometric:-  			
+  	 tan 90.000000 is -1.995200   			
+ ------------------------------------------------------------------------------------------------------------------------------------------------
+
+  	 Physics:-  			
+  	Distance: 355.000000  Time: 45.000000 = Velocity  Velocity Is 7.888889   			
+
+  	Initial Velocity: 45.000000 Final Velocity: 5.000000 Time Delta: 45.000000 = Acceleration Acceleration is -0.888889   		
+ 
+ ********************************************************************************************************************************************* 
+
+  	 Animal Kingdom :-  			
+  	 Animal  :  Animal Name:  Chilean flamingo 
+
+ 	 Phylum : Chordata 	 Class: Aves 	 Order: Ciconiiformes 	 Family: Phoenicopteridae 	 Genus: Phoenicopterus 	 Species: Chilenis 
+ 			
+ ------------------------------------------------------------------------------------------------------------------------------------------------ 
+
+  	 Trigonometric:-  			
+  	 tan 45.000000 is 1.619775   			
+ ------------------------------------------------------------------------------------------------------------------------------------------------
+
+  	 Physics:-  			
+  	Distance: 54.000000  Time: 45.000000 = Velocity  Velocity Is 1.200000   			
+
+  	Initial Velocity: 45.000000 Final Velocity: 5.000000 Time Delta: 45.000000 = Acceleration Acceleration is -0.888889   		

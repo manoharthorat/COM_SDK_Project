@@ -1,0 +1,10 @@
+﻿  AnimalKingdom.cpp
+c:\users\manohar\documents\win32programs\animal kingdom\animal_server\animalkingdom.cpp(24): warning C4101: 'str': unreferenced local variable
+     Creating library C:\Users\Manohar\Documents\Win32Programs\Animal Kingdom\Animal_Server\Release\Animal_Server.lib and object C:\Users\Manohar\Documents\Win32Programs\Animal Kingdom\Animal_Server\Release\Animal_Server.exp
+Animal_Server.exp : warning LNK4070: /OUT:AnimalKingdom.dll directive in .EXP differs from output filename 'C:\Users\Manohar\Documents\Win32Programs\Animal Kingdom\Animal_Server\Release\Animal_Server.dll'; ignoring directive
+  Generating code
+c:\users\manohar\documents\win32programs\animal kingdom\animal_server\animalkingdom.cpp(82): warning C4715: 'ShowDetails': not all control paths return a value
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+Animal_Server.exp : warning LNK4070: /OUT:AnimalKingdom.dll directive in .EXP differs from output filename 'C:\Users\Manohar\Documents\Win32Programs\Animal Kingdom\Animal_Server\Release\Animal_Server.dll'; ignoring directive
+  Animal_Server.vcxproj -> C:\Users\Manohar\Documents\Win32Programs\Animal Kingdom\Animal_Server\Release\Animal_Server.dll

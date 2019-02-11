@@ -1,0 +1,4 @@
+﻿  TrigonometricClassFactoryClient.cpp
+c:\users\manohar\documents\com\trigonometric\trigonometricclassfactoryclient\trigonometricclassfactoryclient.cpp(165): warning C4101: 'hInstance': unreferenced local variable
+c:\users\manohar\documents\com\trigonometric\trigonometricclassfactoryclient\trigonometricclassfactoryclient.cpp(323): warning C4101: 'strText': unreferenced local variable
+  TrigonometricClassFactoryClient.vcxproj -> C:\Users\Manohar\Documents\COM\Trigonometric\TrigonometricClassFactoryClient\Debug\TrigonometricClassFactoryClient.exe

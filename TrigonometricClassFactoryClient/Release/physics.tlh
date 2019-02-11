@@ -1,0 +1,72 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.16.27024.1 (004f51ea).
+//
+// c:\users\manohar\documents\com\trigonometric\trigonometricclassfactoryclient\release\physics.tlh
+//
+// C++ source equivalent of Win32 type library Physics.tlb
+// compiler-generated file created 02/03/19 at 00:18:57 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("4ff474ed-241e-3a23-9263-d84b6c656360"))
+/* LIBID */ __Physics;
+struct __declspec(uuid("a037ca8e-d99b-3489-8861-2206b51bf985"))
+/* dual interface */ IPhysics;
+struct /* coclass */ Physics;
+struct __declspec(uuid("fbcb588e-3ef1-31b5-9078-81004cfa16e4"))
+/* dual interface */ _Physics;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(IPhysics, __uuidof(IPhysics));
+_COM_SMARTPTR_TYPEDEF(_Physics, __uuidof(_Physics));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("a037ca8e-d99b-3489-8861-2206b51bf985"))
+IPhysics : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_VelocityValue (
+        /*[out,retval]*/ double * pRetVal ) = 0;
+      virtual HRESULT __stdcall put_VelocityValue (
+        /*[in]*/ double pRetVal ) = 0;
+      virtual HRESULT __stdcall get_AccelerationValue (
+        /*[out,retval]*/ double * pRetVal ) = 0;
+      virtual HRESULT __stdcall put_AccelerationValue (
+        /*[in]*/ double pRetVal ) = 0;
+      virtual HRESULT __stdcall ComputeVelocity (
+        /*[in]*/ double idDistance,
+        /*[in]*/ double idTime,
+        /*[out,retval]*/ double * pRetVal ) = 0;
+      virtual HRESULT __stdcall ComputeAcceleration (
+        /*[in]*/ double idInitialVelocity,
+        /*[in]*/ double idFinalVelocity,
+        /*[in]*/ double idTimeDelta,
+        /*[out,retval]*/ double * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("387a2005-41ba-3d4a-bbd3-37323016f365"))
+Physics;
+    // [ default ] interface _Physics
+    // interface _Object
+    // interface IPhysics
+
+struct __declspec(uuid("fbcb588e-3ef1-31b5-9078-81004cfa16e4"))
+_Physics : IDispatch
+{};
+
+#pragma pack(pop)
